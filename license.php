@@ -1,1 +1,1 @@
-{"status":"error","message":"Invalid purchase code"}
+{"status":"success","message":"Valid purchase code"}
